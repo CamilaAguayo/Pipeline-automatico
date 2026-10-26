@@ -1,0 +1,8 @@
+﻿fuente,variable,grupo,Q1,Q3,IQR,limite_inferior,limite_superior,outliers_altos,outliers_bajos,max_antes
+fisica,cantidad,todos,1.0,4.0,3.0,1.0,8.0,13,0,500.0
+fisica,precio_unitario,todos,1025.98,2985.89,1959.9099999999999,332.7,5925.754999999999,0,0,4218.11
+online,units,todos,1.0,2.0,1.0,1.0,3.0,0,0,3.0
+online,unit_price,MXN,1008.15,2966.7,1958.5499999999997,332.7,5904.525,0,0,4218.11
+online,unit_price,USD,51.7,153.12,101.42,17.06,305.25,0,0,216.31
+fisica,monto_total_mxn,diagnostico,2012.82,7710.2,5697.38,-6533.25,16256.27,34,0,33744.88
+online,total_amount,diagnostico,214.55,3192.45,2977.8999999999996,-4252.299999999999,7659.299999999999,37,0,826360.8
